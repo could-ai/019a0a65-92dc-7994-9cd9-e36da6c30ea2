@@ -21,7 +21,7 @@ class CartScreen extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             Text(
-              'Looks like you haven\\'t added anything to your cart yet.',
+              "Looks like you haven't added anything to your cart yet.",
               textAlign: TextAlign.center,
               style: Theme.of(context).textTheme.bodyMedium,
             ),
